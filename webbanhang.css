@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: #eeeeee;
+}
+
+.form1 {
+    display: flex;
+    gap: 30px;
+    margin: 10px;
+}
+
+.item {
+    font-weight: bold;
+}
+
+.button {
+    padding: 5px;
+    margin: 5px 0px;
+    background-color: #0062cc;
+    color: #fff;
+    border-radius: 4px;
+}
+
+.form2 {
+    display: flex;
+    gap: 30px;
+    margin: 10px;
+}
+
+.form3 {
+    display: flex;
+    gap: 30px;
+    margin: 10px;
+}
+
+.footer {
+    background-color: black;
+    width: 100%;
+    color: #757575;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0px;
+}
